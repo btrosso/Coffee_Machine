@@ -1,0 +1,24 @@
+***BASIC STEPS***
+Step 1: Break the Problem Down into Tasks
+Step 2: Start with the easiest task
+Step 3: Turn the task into comments
+Step 4: Write Code > Run Code > Fix code
+Step 5: Next Task
+
+***Program Requirements***
+1. Print Report
+2. Check resources sufficient?
+3. Process coins
+4. Check Transaction successful?
+5. Make coffee
+
+***TASKS***
+# TODO: 1. tap into the menu dictionary and retrieve the information needed: water, milk, coffee
+# TODO: 2. add either an key, value par to the dictionary for money or create a variable that will keep track
+# TODO: 3. Define a function to format and print this information when called
+# TODO: 4. ask the user what they want to do and save to a variable
+# TODO: 5. check the input against the different options (with hidden option being the report)
+# TODO: 6. define a function to check if the ingredients of the selected coffee are less than or greater to remaining resources
+# TODO: 7. Ask user for coins 4 types of coins
+# TODO: 8. define a function to check the coins vs the price, if not enough refund money, if enough finish process
+# TODO: 9. give user coffee if transaction successful and keep track of money in the register
